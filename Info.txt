@@ -1,0 +1,14 @@
+#-----------------Tableau Workbooks------------------
+
+Tableau workbooks include the following:-
+
+1) COVID-19 Dashboard: the data set was taken from kaggle adn was visualized in Tableau
+
+2) Writers & Quotes: This was a part of a web scraping project I was working on. The data used was scraped from "http://quotes.toscrape.com/" using python.
+
+3) Disney Movies: The data set was taken from kaggle and some was google searched. The data consist of Disney movies until 2016.
+
+
+#------------------ Tableau Public Profile--------------------
+
+My other work samples are available on my Tableau Public Profile: "https://public.tableau.com/profile/sky6274#!/"
